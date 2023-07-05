@@ -8,13 +8,13 @@
       h1 Introducción a las auditorías energéticas
 
     p(data-aos="flip-down") La auditoría energética es la herramienta usada para conocer cómo, dónde, y cuándo se usa la energía en una organización y de esta manera identificar las oportunidades de reducción del uso y/o costo de la misma, sin afectar la calidad de los productos. Además, por ser parte integral del Sistema de Gestión Eficiente de Energía se han desarrollado estándares específicos para su normalización como, por ejemplo, la ISO 50002:2014 auditorías energéticas.
-    p(data-aos="flip-down") Un ejemplo de una lista de chequeo para la verificación de equipos durante una auditoría se muestra en la siguiente figura:
+    p(data-aos="flip-down") Un ejemplo de una lista de chequeo para la verificación de equipos durante una auditoría se muestra en la siguiente tabla:
 
     .row.justify-content-center.align-items-center.mt-5.mb-5
-      .col-12.col-md-10.mb-5(data-aos="fade-right")
+      .col-12.col-md-10(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Lista de chequeo para verificación equipos] 
-      .col-12.col-md-10.px-0(data-aos="fade-down")
+          p.titulo.pb-0.mb-0 #[b Tabla 1.] #[i Lista de chequeo para verificación equipos] 
+      .col-12.col-md-10(data-aos="fade-down")
         .tabla-a.color-primario
           table
             caption Nota. Tomado de ICONTEC, NTC-ISO 50002
@@ -215,7 +215,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-12.col-lg-10.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 6.] #[i Esquema de actividades de auditoría energética] 
+          p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Esquema de actividades de auditoría energética] 
         div.d-none.d-sm-none.d-md-block
           figure
             img(src='@/assets/curso/temas/tema5/tema5-06-md.svg', alt='')  

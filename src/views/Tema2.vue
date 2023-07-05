@@ -15,7 +15,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Diagrama de flujo extracción oro y/o plata] 
         div
           figure
-            img(src='@/assets/curso/temas/tema2/tema2-01.png', alt='')  
+            img(src='@/assets/curso/temas/tema2/tema2-01.svg', alt='')  
             figcaption Nota. Tomado de Procesos mineros (s.f.). 
 
     .row.mb-5(data-aos="fade-left")
