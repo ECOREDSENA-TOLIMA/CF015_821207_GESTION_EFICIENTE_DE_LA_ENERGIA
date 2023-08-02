@@ -15,7 +15,7 @@
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
             h4 La información recopilada debe ser almacenada en forma individual para cada equipo, facilitando así su inventario.  De la diversidad de equipos consumidores de energía usados en los procesos, los más relevantes son: 
-            p #[strong ● Envolventes de edificios:] son las partes de la edificación que se encuentran directamente expuestas al medio ambiente como puertas, ventanas, paredes y pisos, que además de funciones de privacidad y protección proveen nivel de aislamiento térmico que afecta el desempeño energético de calentadores y aires acondicionados.
+            p #[strong ● Envolventes de edificios:] son las partes de la edificación que se encuentran directamente expuestas al medio ambiente como puertas, ventanas, paredes y pisos, que además de funciones de privacidad y protección proveen, nivel de aislamiento térmico que afecta el desempeño energético de calentadores y aires acondicionados.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/tema4-01.png', alt='')
@@ -45,7 +45,7 @@
               img(src='@/assets/curso/temas/tema4/tema4-05.png', alt='')
         .row.justify-content-center.align-items-center
           .col-md-6.mb-4.mb-md-0
-            p Sistemas de alumbrado: incluye la red de distribución, las luminarias. A partir de que gran parte de la iluminación proviene de la reflexión en las superficies circundantes se debe tener en cuenta el área y el tipo de superficie de los pisos, los techos y las paredes del área iluminada.  
+            p Sistemas de alumbrado: incluye la red de distribución, las luminarias. A partir de que gran parte de la iluminación proviene de la reflexión en las superficies circundantes se debe, tener en cuenta el área y el tipo de superficie de los pisos, los techos y las paredes del área iluminada.  
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema4/tema4-06.png', alt='')

@@ -13,7 +13,7 @@
           figure
             img(src='@/assets/curso/temas/tema6/tema6-01.png', alt='') 
 
-    p(data-aos="fade-right") Para obtener la información de la cantidad de energía involucrada en cada proceso auditado e identificar las potenciales oportunidades de mejora se deben tomar medidas a las variables relevantes según el tipo de energía consumida. Los instrumentos de medida y equipos auxiliares usados deben seleccionarse por precisión y facilidad de instalación, siendo los más comunes:
+    p(data-aos="fade-right") Para obtener la información de la cantidad de energía involucrada en cada proceso auditado e identificar las potenciales oportunidades de mejora, se deben tomar medidas a las variables relevantes según el tipo de energía consumida. Los instrumentos de medida y equipos auxiliares usados deben seleccionarse por precisión y facilidad de instalación, siendo los más comunes:
 
 
     SlyderF.mb-5.mt-5(columnas="col-lg-6 col-xl-4" data-aos="fade-down")

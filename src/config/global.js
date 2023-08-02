@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Planeación y ejecución de diagnósticos energéticos',
     descripcionCurso:
-      'La eficiencia en cualquier contexto es el cociente de la magnitud de una variable a la salida dividida entre la magnitud de esa variable y la entrada. En el contexto energético la variable es la energía y una auditoría o revisión energética determina la eficiencia actual de un proceso e identifica las oportunidades de mejora de la misma.',
+      'La eficiencia en cualquier contexto es el cociente de la magnitud de una variable a la salida dividida entre la magnitud de esa variable y la entrada. En el contexto energético, la variable es la energía y una auditoría o revisión energética determina la eficiencia actual de un proceso e identifica las oportunidades de mejora de la misma.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -171,13 +171,13 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Auditor energético',
-      significado: 'persona que realiza una auditoría energética.',
-    },
-    {
       termino: 'Auditoría energética',
       significado:
         'inspección y análisis sistemático del uso de energía y el consumo de energía de un objeto(s) auditado(s), con el propósito de identificar los flujos de energía y las oportunidades potenciales para mejorar el desempeño energético e informarlas.',
+    },
+    {
+      termino: 'Auditor energético',
+      significado: 'persona que realiza una auditoría energética.',
     },
     {
       termino: 'Balance energético',

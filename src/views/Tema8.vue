@@ -13,7 +13,7 @@
           figure
             img(src='@/assets/curso/temas/tema8/tema8-01.png', alt='') 
 
-    p(data-aos="fade-right") Debido a que las actividades en campo de una auditoría energética pueden generar riesgos en la eficiencia de los procesos de la organización y/o en la integridad de las personas involucradas es deber del equipo auditor realizar una planificación eficaz para obtener los resultados propuestos y minimizar los riesgos de ocasionar daños a las personas o a la organización.
+    p(data-aos="fade-right") Debido a que las actividades en campo de una auditoría energética pueden generar riesgos en la eficiencia de los procesos de la organización y/o en la integridad de las personas involucradas, es deber del equipo auditor realizar una planificación eficaz para obtener los resultados propuestos y minimizar los riesgos de ocasionar daños a las personas o a la organización.
 
     p(data-aos="fade-right") El plan de auditoría debe ser aprobado por el cliente y socializado a los auditados antes del inicio de la auditoría.
 

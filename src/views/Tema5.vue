@@ -49,7 +49,7 @@
                 td 
               tr 
                 td Sistemas de enfriamiento y control
-                td Cuarto de chillers o cubierta donde se encuentran los equipos
+                td Cuarto de #[em chillers] o cubierta donde se encuentran los equipos
                 td 
               tr 
                 td(rowspan="2") Sistema de ventilación y aire acondicionado y UMA's
@@ -170,7 +170,7 @@
 
         .col-12.mb-4.mt-4(data-aos="flip-down")
           .cajon.color-acento-botones.p-4.mb-4
-            p Las auditorías energéticas se pueden realizar de forma global o por áreas o procesos, de acuerdo con la complejidad de las instalaciones y la expectativa del usuario. En cualquiera de los casos, la persona responsable (auditor) de realizarla debe conocer los procesos involucrados y los equipos usados por la empresa auditada. Debido a la diversidad de procesos existentes el auditor debe tener una formación amplia para visualizar los procesos como un todo y apoyarse en un equipo multidisciplinario de especialistas donde la complejidad de los procesos así lo requiera.
+            p Las auditorías energéticas se pueden realizar de forma global o por áreas o procesos, de acuerdo con la complejidad de las instalaciones y la expectativa del usuario. En cualquiera de los casos, la persona responsable (auditor) de realizarla debe conocer los procesos involucrados y los equipos usados por la empresa auditada. Debido a la diversidad de procesos existentes, el auditor debe tener una formación amplia para visualizar los procesos como un todo y apoyarse en un equipo multidisciplinario de especialistas donde la complejidad de los procesos así lo requiera.
 
         .col-12
           ul.lista-ul.mb-3(data-aos="flip-down")

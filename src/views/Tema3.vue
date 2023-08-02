@@ -18,7 +18,7 @@
       SlyderA(tipo="b")
         .row
           .col-12.mb-4.mb-md-0
-            p El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso, como se muestra en la siguiente figura:
+            p El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso, como se muestra en la siguiente grafica:
           .col-12
             div.d-none.d-sm-none.d-md-block
               figure
@@ -40,7 +40,7 @@
                 img(src='@/assets/curso/temas/tema3/tema3-03-sm.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso')
         .row
           .col-12.mb-4.mb-md-0
-            p Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey, que consiste en un diagrama de flujo donde el ancho de las flechas es proporcional a la magnitud representada por la flecha, como se muestra en la siguiente figura:
+            p Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey, que consiste en un diagrama de flujo donde el ancho de las flechas es proporcional a la magnitud representada por la flecha, como se muestra en la siguiente grafica:
           .col-12
             div.d-none.d-sm-none.d-md-block
               figure
