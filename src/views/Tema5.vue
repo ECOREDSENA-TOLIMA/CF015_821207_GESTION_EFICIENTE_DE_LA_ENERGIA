@@ -10,126 +10,126 @@
     p(data-aos="flip-down") La auditoría energética es la herramienta usada para conocer cómo, dónde, y cuándo se usa la energía en una organización y de esta manera identificar las oportunidades de reducción del uso y/o costo de la misma, sin afectar la calidad de los productos. Además, por ser parte integral del Sistema de Gestión Eficiente de Energía se han desarrollado estándares específicos para su normalización como, por ejemplo, la ISO 50002:2014 auditorías energéticas.
     p(data-aos="flip-down") Un ejemplo de una lista de chequeo para la verificación de equipos durante una auditoría se muestra en la siguiente tabla:
 
-    .row.justify-content-center.align-items-center.mt-5.mb-5
-      .col-12.col-md-10(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Tabla 1.] #[i Lista de chequeo para verificación equipos] 
-      .col-12.col-md-10(data-aos="fade-down")
-        .tabla-a.color-primario
-          table
-            caption Nota. Tomado de ICONTEC, NTC-ISO 50002
-            thead
-              tr
-                th Elemento Principal
-                th Lugares a visitar
-                th Verificado
-            tbody
-              tr
-                td(rowspan="4") Elemento Principal
-                td Cubierta
-                td 
-              tr 
-                td Paredes
-                td 
-              tr 
-                td Ventanas
-                td 
-              tr 
-                td Sótanos
-                td 
-              tr
-                td(rowspan="3") Sistemas de calentamiento y control
-                td Cuarto de calderas
-                td
-              tr 
-                td Cuartos de distribución de calor
-                td 
-              tr 
-                td Racks de distribución/túneles
-                td 
-              tr 
-                td Sistemas de enfriamiento y control
-                td Cuarto de #[em chillers] o cubierta donde se encuentran los equipos
-                td 
-              tr 
-                td(rowspan="2") Sistema de ventilación y aire acondicionado y UMA's
-                td Cuartos mecánicos donde se encuentran las UMAS's
-                td 
-              tr 
-                td Espacios técnicos
-                td 
-              tr
-                td(rowspan="3") Sistemas de iluminación y control
-                td Recintos de muestra por uso
-                td
-              tr 
-                td Áreas comunes
-                td 
-              tr 
-                td Áreas externas iluminadas
-                td 
-              tr 
-                td Electrodomésticos
-                td Espacios residenciales de muestra
-                td 
-              tr 
-                td(rowspan="2") Equipos de oficina
-                td Recintos de muestra por uso
-                td 
-              tr 
-                td Centros de computo y servidores
-                td 
-              tr 
-                td Otros equipos (Ej... médicos) 
-                td 
-                td 
-              tr 
-                td Sistemas internos de transporte
-                td 
-                td 
-              tr
-                td(rowspan="3") Sistemas anti-congelamiento y control
-                td Tableros de distribución
-                td
-              tr 
-                td Áreas restringidas
-                td 
-              tr 
-                td Areas calentadas, calentamiento de tuberías
-                td
-              tr
-                td(rowspan="8") Otros suministros energéticos
-                td Planta de generación de vapor
-                td
-              tr 
-                td Distribución de vapor
-                td 
-              tr 
-                td Tanques y bombas de condensados
-                td
-              tr 
-                td Cuarto de compresores
-                td
-              tr 
-                td Líneas y drenajes de aire comprimido 
-                td
-              tr 
-                td Planta de piscina
-                td
-              tr 
-                td Otros cuartos de servicio técnico 
-                td
-              tr 
-                td Otras distribuciones
-                td
-              tr 
-                td Sistema de automatización de la edificación 
-                td Acceso a la electrónica 
-                td 
-              tr 
-                td Otros sistemas consumidores de energía
-                td Piscinas...
-                td 
+    //- .row.justify-content-center.align-items-center.mt-5.mb-5
+    //-   .col-12.col-md-10(data-aos="fade-right")
+    //-     .titulo-sexto.color-acento-contenido
+    //-       p.titulo.pb-0.mb-0 #[b Tabla 1.] #[i Lista de chequeo para verificación equipos] 
+    //-   .col-12.col-md-10(data-aos="fade-down")
+    //-     .tabla-a.color-primario
+    //-       table
+    //-         caption Nota. Tomado de ICONTEC, NTC-ISO 50002
+    //-         thead
+    //-           tr
+    //-             th Elemento Principal
+    //-             th Lugares a visitar
+    //-             th Verificado
+    //-         tbody
+    //-           tr
+    //-             td(rowspan="4") Elemento Principal
+    //-             td Cubierta
+    //-             td 
+    //-           tr 
+    //-             td Paredes
+    //-             td 
+    //-           tr 
+    //-             td Ventanas
+    //-             td 
+    //-           tr 
+    //-             td Sótanos
+    //-             td 
+    //-           tr
+    //-             td(rowspan="3") Sistemas de calentamiento y control
+    //-             td Cuarto de calderas
+    //-             td
+    //-           tr 
+    //-             td Cuartos de distribución de calor
+    //-             td 
+    //-           tr 
+    //-             td Racks de distribución/túneles
+    //-             td 
+    //-           tr 
+    //-             td Sistemas de enfriamiento y control
+    //-             td Cuarto de #[em chillers] o cubierta donde se encuentran los equipos
+    //-             td 
+    //-           tr 
+    //-             td(rowspan="2") Sistema de ventilación y aire acondicionado y UMA's
+    //-             td Cuartos mecánicos donde se encuentran las UMAS's
+    //-             td 
+    //-           tr 
+    //-             td Espacios técnicos
+    //-             td 
+    //-           tr
+    //-             td(rowspan="3") Sistemas de iluminación y control
+    //-             td Recintos de muestra por uso
+    //-             td
+    //-           tr 
+    //-             td Áreas comunes
+    //-             td 
+    //-           tr 
+    //-             td Áreas externas iluminadas
+    //-             td 
+    //-           tr 
+    //-             td Electrodomésticos
+    //-             td Espacios residenciales de muestra
+    //-             td 
+    //-           tr 
+    //-             td(rowspan="2") Equipos de oficina
+    //-             td Recintos de muestra por uso
+    //-             td 
+    //-           tr 
+    //-             td Centros de computo y servidores
+    //-             td 
+    //-           tr 
+    //-             td Otros equipos (Ej... médicos) 
+    //-             td 
+    //-             td 
+    //-           tr 
+    //-             td Sistemas internos de transporte
+    //-             td 
+    //-             td 
+    //-           tr
+    //-             td(rowspan="3") Sistemas anti-congelamiento y control
+    //-             td Tableros de distribución
+    //-             td
+    //-           tr 
+    //-             td Áreas restringidas
+    //-             td 
+    //-           tr 
+    //-             td Areas calentadas, calentamiento de tuberías
+    //-             td
+    //-           tr
+    //-             td(rowspan="8") Otros suministros energéticos
+    //-             td Planta de generación de vapor
+    //-             td
+    //-           tr 
+    //-             td Distribución de vapor
+    //-             td 
+    //-           tr 
+    //-             td Tanques y bombas de condensados
+    //-             td
+    //-           tr 
+    //-             td Cuarto de compresores
+    //-             td
+    //-           tr 
+    //-             td Líneas y drenajes de aire comprimido 
+    //-             td
+    //-           tr 
+    //-             td Planta de piscina
+    //-             td
+    //-           tr 
+    //-             td Otros cuartos de servicio técnico 
+    //-             td
+    //-           tr 
+    //-             td Otras distribuciones
+    //-             td
+    //-           tr 
+    //-             td Sistema de automatización de la edificación 
+    //-             td Acceso a la electrónica 
+    //-             td 
+    //-           tr 
+    //-             td Otros sistemas consumidores de energía
+    //-             td Piscinas...
+    //-             td 
 
              
     .tarjeta.tarjeta--gris.p-4.mb-5(data-aos="flip-down")   

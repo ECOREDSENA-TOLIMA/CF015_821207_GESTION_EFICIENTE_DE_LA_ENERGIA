@@ -92,16 +92,30 @@
                     figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
 
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
+              .col-12
+                p De acuerdo con la Norma ISO 50006 un listado de indicadores típicos con sus ventajas y desventajas se muestra en el siguiente anexo: 
               .col-12(data-aos="fade-right")
-                .titulo-sexto.color-acento-contenido
-                  p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Formato para la identificación de los USE] 
-                div
-                  figure
-                    img(src='@/assets/curso/temas/tema9/tema9-05.svg', alt='')  
-                    figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
+                .tarjeta.color-primario.p-3.mb-5(data-aos="fade-down")
+                  .row.justify-content-around.align-items-center
+                    .col-3.col-sm-2.col-lg-1
+                      img(src="@/assets/componentes/descargar.svg")
+                    .col
+                      .row.justify-content-between.align-items-center
+                        .col.mb-3.mb-sm-0
+                          h3.mb-1 Para profundizar aún más a este respecto, diríjase al Anexo 2. 
+                          p.text-small Formato para la identificación de los USE.
+                        .col-sm-auto
+                          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Formato_para_la_identificacion_de_los_USE.pdf')" target="_blank")
+                            span Descargar
+                            i.fas.fa-file-download
+                  //- .titulo-sexto.color-acento-contenido
+                  //- p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Formato para la identificación de los USE] 
+                  //- figure
+                  //-   img(src='@/assets/curso/temas/tema9/tema9-05.svg', alt='')  
+                  //-   figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
 
 
-    .row.py-md-4.mb-5(data-aos="fade-right")
+    .row.py-md-4(data-aos="fade-right")
       .col-12
         ul.lista-ul.mb-3
           li 
@@ -109,17 +123,30 @@
             span.text-bold Listado de indicadores de desempeño energético propuesto.
       .col-12
         p De acuerdo con la organización se deben definir los indicadores de desempeño energético a los que se les efectuará seguimiento después de implementadas las mejoras para comparar con la línea base energética determinada al comienzo de la auditoría. Los indicadores de desempeño pueden ser consumo de energía instantánea, o promedio, eficiencia energética por equipo y por proceso, etc. En todo caso los indicadores se prefieren cuantitativos y medibles, no estimados.
-        p De acuerdo con la Norma ISO 50006 un listado de indicadores típicos con sus ventajas y desventajas se muestra en la siguiente figura:
+        p De acuerdo con la Norma ISO 50006 un listado de indicadores típicos con sus ventajas y desventajas se muestra en el siguiente anexo: 
 
 
-    .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-12(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 10.] #[i Indicadores de eficiencia energética típicos .] 
-        div
-          figure
-            img(src='@/assets/curso/temas/tema9/tema9-06.svg', alt='')  
-            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
+        .tarjeta.color-primario.p-3.mb-5(data-aos="fade-down")
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/componentes/descargar.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Para profundizar aún más a éste respecto, diríjase al Anexo 3. 
+                  p.text-small Indicadores de eficiencia energética típicos.
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Indicadores_de_eficiencia_energetica_tipicos.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
+        //- .titulo-sexto.color-acento-contenido
+        //-   p.titulo.pb-0.mb-0 #[b Figura 10.] #[i Indicadores de eficiencia energética típicos .] 
+        //- div
+        //-   figure
+        //-     img(src='@/assets/curso/temas/tema9/tema9-06.svg', alt='')  
+        //-     figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
 
 
 

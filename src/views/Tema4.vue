@@ -63,7 +63,21 @@
             figure
               img(src='@/assets/curso/temas/tema4/tema4-08.png', alt='')
 
+    p.mb-3 Un ejemplo de una lista de chequeo para la verificación de equipos durante una auditoría se muestra en el siguiente anexo: 
 
+    .tarjeta.color-primario.p-3.mb-5.mt-5(data-aos="fade-down")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/componentes/descargar.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0
+              h3.mb-1 Para profundizar aún más a éste respecto, diríjase al Anexo 1. 
+              p.text-small Lista de chequeo para verificación equipos. 
+            .col-sm-auto
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Lista_de_chequeo_para_verificacion_equipos.pdf')" target="_blank")
+                span Descargar
+                i.fas.fa-file-download
 
 
 
