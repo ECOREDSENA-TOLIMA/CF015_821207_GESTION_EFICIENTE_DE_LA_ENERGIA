@@ -32,7 +32,7 @@
           .col-12.mb-4.mb-md-0
             .h4.text-center 
               //- span Balance de masa
-            p La definición de un balance de masa es simple. Se reduce a la aplicación práctica de la #[b Ley de conservación de la materia.] Dicha ley, nos indica que toda la masa que entra a un sistema sale y/o se acumula, según el tipo de sistema que tengamos. En pocas palabras, la masa no se crea ni se destruye, sólo se transforma.
+            //- p La definición de un balance de masa es simple. Se reduce a la aplicación práctica de la #[b Ley de conservación de la materia.] Dicha ley, nos indica que toda la masa que entra a un sistema sale y/o se acumula, según el tipo de sistema que tengamos. En pocas palabras, la masa no se crea ni se destruye, sólo se transforma.
             p Para elaborar el balance de material de cada proceso se usa la ecuación de conservación como se muestra:
           .col-12
             div.d-none.d-sm-none.d-md-block
