@@ -20,6 +20,8 @@
           .col-12.mb-4.mb-md-0
             p El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso, como se muestra en la siguiente grafica:
           .col-12
+            .titulo-sexto.color-acento-contenido
+              p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Diagrama de flujo del proceso de la producción de varillas lisas ] 
             div.d-none.d-sm-none.d-md-block
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-02-md.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida')
@@ -32,21 +34,27 @@
           .col-12.mb-4.mb-md-0
             .h4.text-center 
               //- span Balance de masa
-            //- p La definición de un balance de masa es simple. Se reduce a la aplicación práctica de la #[b Ley de conservación de la materia.] Dicha ley, nos indica que toda la masa que entra a un sistema sale y/o se acumula, según el tipo de sistema que tengamos. En pocas palabras, la masa no se crea ni se destruye, sólo se transforma.
+            p La definición de un balance de masa es simple. Se reduce a la aplicación práctica de la #[b Ley de conservación de la materia.] Dicha ley, nos indica que toda la masa que entra a un sistema sale y/o se acumula, según el tipo de sistema que tengamos. En pocas palabras, la masa no se crea ni se destruye, sólo se transforma.
             p Para elaborar el balance de material de cada proceso se usa la ecuación de conservación como se muestra:
           .col-12
+            .titulo-sexto.color-acento-contenido
+              p.titulo.pb-0.mb-0 #[b Figura 6.] #[i Balance de masas] 
             div.d-none.d-sm-none.d-md-block
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-03-md.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso')
-                figcaption Nota. Tomado de Ingeniería química.
+                figcaption Nota: Imagen tomada de: https://www.ingenieriaquimicareviews.com/2020/04/balancede-masa-ingenieria-quimica.html 
+                //- figcaption Nota. Tomado de Ingeniería química.
             div.d-block.d-md-none
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-03-sm.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso')
-                figcaption Nota. Tomado de Ingeniería química.
+                figcaption Nota: Imagen tomada de: https://www.ingenieriaquimicareviews.com/2020/04/balancede-masa-ingenieria-quimica.html 
+                //- Nota. Tomado de Ingeniería química.
         .row
           .col-12.mb-4.mb-md-0
             p Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey, que consiste en un diagrama de flujo donde el ancho de las flechas es proporcional a la magnitud representada por la flecha, como se muestra en la siguiente grafica:
           .col-12
+            .titulo-sexto.color-acento-contenido
+              p.titulo.pb-0.mb-0 #[b Figura 7.] #[i Diagrama de Sankey] 
             div.d-none.d-sm-none.d-md-block
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-04-md.svg', alt='Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey.')
