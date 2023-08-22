@@ -25,11 +25,11 @@
             div.d-none.d-sm-none.d-md-block
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-02-md.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida')
-                figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (2019).  
+                figcaption Nota. Tomado de https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
             div.d-block.d-md-none
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-02-sm.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida')
-                figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (2019).  
+                figcaption Nota. Tomado de https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf  
         .row
           .col-12.mb-4.mb-md-0
             .h4.text-center 
@@ -42,12 +42,12 @@
             div.d-none.d-sm-none.d-md-block
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-03-md.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso')
-                figcaption Nota: Imagen tomada de: https://www.ingenieriaquimicareviews.com/2020/04/balancede-masa-ingenieria-quimica.html 
+                figcaption Nota: tomada de https://www.ingenieriaquimicareviews.com/2020/04/balance-de-masa-ingenieria-quimica.html
                 //- figcaption Nota. Tomado de Ingeniería química.
             div.d-block.d-md-none
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-03-sm.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso')
-                figcaption Nota: Imagen tomada de: https://www.ingenieriaquimicareviews.com/2020/04/balancede-masa-ingenieria-quimica.html 
+                figcaption Nota: tomada de https://www.ingenieriaquimicareviews.com/2020/04/balance-de-masa-ingenieria-quimica.html
                 //- Nota. Tomado de Ingeniería química.
         .row
           .col-12.mb-4.mb-md-0
@@ -58,11 +58,11 @@
             div.d-none.d-sm-none.d-md-block
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-04-md.svg', alt='Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey.')
-                figcaption Nota. Tomado de Researchgate s.f.
+                figcaption Nota. Tomado de https://www.researchgate.net/figure/Figura-38-Diagrama-de-Sankey-para-Oxicombustion_fig10_272496993
             div.d-block.d-md-none
               figure
                 img(src='@/assets/curso/temas/tema3/tema3-04-sm.svg', alt='Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey.')
-                figcaption Nota. Tomado de Researchgate s.f.
+                figcaption Nota. Tomado de https://www.researchgate.net/figure/Figura-38-Diagrama-de-Sankey-para-Oxicombustion_fig10_272496993
 
 
 </template>

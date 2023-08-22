@@ -16,11 +16,11 @@
         div.d-none.d-sm-none.d-md-block
           figure
             img(src='@/assets/curso/temas/tema1/tema1-01-md.svg', alt='')  
-            figcaption Nota. Tomado de Implementación de un sistema gestión de energía pág. 53 s.f.
+            figcaption Nota. Tomado de Implementación de un sistema gestión de energía pág. 53 s.f. https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
         div.d-block.d-md-none
           figure
             img(src='@/assets/curso/temas/tema1/tema1-01-sm.svg', alt='')  
-            figcaption Nota. Tomado de Implementación de un sistema gestión de energía pág. 53 s.f.
+            figcaption Nota. Tomado de Implementación de un sistema gestión de energía pág. 53 s.f. https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
 
     .row.mb-5(data-aos="fade-left")
       .col-12

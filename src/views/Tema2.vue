@@ -29,8 +29,8 @@
           p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Diagrama de flujo productos de acero para construcción] 
         div
           figure
-            img(src='@/assets/curso/temas/tema2/tema2-03.png', alt='')  
-            figcaption Nota. Tomado de Industria del acero (2013.). 
+            img(src='@/assets/curso/temas/tema2/tema2-03.svg', alt='')  
+            figcaption Nota. Tomado de New Steel Construction (s.f.). https://www.newsteelconstruction.com/wp/an-introduction-to-steelmaking/
 
     .row.mb-5(data-aos="fade-left")
       .col-12
@@ -43,8 +43,8 @@
           p.titulo.pb-0.mb-0 #[b Figura 4.] #[i Diagrama de flujo producción azúcar] 
         div
           figure
-            img(src='@/assets/curso/temas/tema2/tema2-05.png', alt='')  
-            figcaption Nota. Tomado de ELSEVIER (s.f.). 
+            img(src='@/assets/curso/temas/tema2/tema2-05.svg', alt='')  
+            figcaption Nota. Tomado de ELSEVIER (s.f.). https://www.elsevier.es/en-revista-ingenieria-investigacion-tecnologia-104-articulo-prevencion-minimizacion-control-contaminacion-ambiental-S1405774314706535#imagen-2
 
     .row.mb-5(data-aos="fade-left")
       .col-12
