@@ -16,7 +16,7 @@
         div
           figure
             img(src='@/assets/curso/temas/tema2/tema2-01.svg', alt='')  
-            figcaption Nota. Tomado de Procesos mineros (s.f.). 
+            figcaption Nota. Tomado de Procesos mineros (s.f.). <br>https://procesosmineros.weebly.com/plata.html
 
     .row.mb-5(data-aos="fade-left")
       .col-12
@@ -30,7 +30,7 @@
         div
           figure
             img(src='@/assets/curso/temas/tema2/tema2-03.svg', alt='')  
-            figcaption Nota. Tomado de New Steel Construction (s.f.). https://www.newsteelconstruction.com/wp/an-introduction-to-steelmaking/
+            figcaption Nota. Tomado de New Steel Construction (s.f.). <br>https://www.newsteelconstruction.com/wp/an-introduction-to-steelmaking/
 
     .row.mb-5(data-aos="fade-left")
       .col-12
@@ -44,7 +44,7 @@
         div
           figure
             img(src='@/assets/curso/temas/tema2/tema2-05.svg', alt='')  
-            figcaption Nota. Tomado de ELSEVIER (s.f.). https://www.elsevier.es/en-revista-ingenieria-investigacion-tecnologia-104-articulo-prevencion-minimizacion-control-contaminacion-ambiental-S1405774314706535#imagen-2
+            figcaption Nota. Tomado de ELSEVIER (s.f.). <br>https://www.elsevier.es/en-revista-ingenieria-investigacion-tecnologia-104-articulo-prevencion-minimizacion-control-contaminacion-ambiental-S1405774314706535#imagen-2
 
     .row.mb-5(data-aos="fade-left")
       .col-12

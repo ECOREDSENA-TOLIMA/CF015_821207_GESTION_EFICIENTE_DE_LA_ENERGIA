@@ -28,15 +28,15 @@
     .row.justify-content-center.align-items-center.mt-5.mb-4
       .col-12.col-lg-10.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Ejemplo de matriz de consumo y de costos] 
+          p.titulo.pb-0.mb-0 #[b Figura 6.] #[i Ejemplo de matriz de consumo y de costos] 
         div.d-none.d-sm-none.d-md-block
           figure
             img(src='@/assets/curso/temas/tema9/tema9-02-md.svg', alt='')  
-            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
+            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). https://drive.google.com/file/d/1u2CjluOkI8lP1RU3mtDuM3fx2ae5lmny/view?usp=sharing
         div.d-block.d-md-none
           figure
             img(src='@/assets/curso/temas/tema9/tema9-02-sm.svg', alt='')  
-            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
+            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). https://drive.google.com/file/d/1u2CjluOkI8lP1RU3mtDuM3fx2ae5lmny/view?usp=sharing
 
 
     .row.py-md-4.mb-5(data-aos="fade-right")
@@ -62,15 +62,15 @@
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12(data-aos="fade-right")
                 .titulo-sexto.color-acento-contenido
-                  p.titulo.pb-0.mb-0 #[b Figura 10.] #[i Ejemplo de gráfica de consumo] 
+                  p.titulo.pb-0.mb-0 #[b Figura 7.] #[i Ejemplo de gráfica de consumo] 
                 div.d-none.d-sm-none.d-md-block
                   figure
                     img(src='@/assets/curso/temas/tema9/tema9-03-md.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética – RECIEE (s.f.). <br> https://drive.google.com/file/d/1eB_EkXgDmsykNAfYyQH5UH5Tde8a2cAf/view?usp=sharing
                 div.d-block.d-md-none
                   figure
                     img(src='@/assets/curso/temas/tema9/tema9-03-sm.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética – RECIEE (s.f.). <br>https://drive.google.com/file/d/1eB_EkXgDmsykNAfYyQH5UH5Tde8a2cAf/view?usp=sharing
 
           .col-md-11-col-lg-10.col-12.pt-3
             ul.lista-ul
@@ -81,15 +81,16 @@
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12(data-aos="fade-right")
                 .titulo-sexto.color-acento-contenido
-                  p.titulo.pb-0.mb-0 #[b Figura 11.] #[i Ejemplo del Diagrama de Pareto del consumo de energía] 
+                  p.titulo.pb-0.mb-0 #[b Figura 8.] #[i Ejemplo del Diagrama de Pareto del consumo de energía] 
                 div.d-none.d-sm-none.d-md-block
                   figure
                     img(src='@/assets/curso/temas/tema9/tema9-04-md.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). <br>https://drive.google.com/file/d/1BsdUAo3HQqy5KYBolbxeDptLyjzpjMa1/view?usp=sharing
+
                 div.d-block.d-md-none
                   figure
                     img(src='@/assets/curso/temas/tema9/tema9-04-sm.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). <br>https://drive.google.com/file/d/1BsdUAo3HQqy5KYBolbxeDptLyjzpjMa1/view?usp=sharing
 
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12

@@ -75,7 +75,7 @@
               h3.mb-1 Para profundizar aún más a éste respecto, diríjase al Anexo 1. 
               p.text-small Lista de chequeo para verificación equipos. 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Lista_de_chequeo_para_verificacion_equipos.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Lista_de_chequeo_para_verificacion_equipos.docx')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
 
