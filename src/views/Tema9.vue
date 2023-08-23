@@ -139,7 +139,7 @@
                   h3.mb-1 Para profundizar aún más a éste respecto, diríjase al Anexo 3. 
                   p.text-small Indicadores de eficiencia energética típicos.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Indicadores_de_eficiencia_energetica_tipicos.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Indicadores_de_eficiencia_energetica_tipicos.docx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         //- .titulo-sexto.color-acento-contenido
