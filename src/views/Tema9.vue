@@ -28,7 +28,7 @@
     .row.justify-content-center.align-items-center.mt-5.mb-4
       .col-12.col-lg-10.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 6.] #[i Ejemplo de matriz de consumo y de costos] 
+          p.titulo.pb-0.mb-0 #[b Figura 20.] #[i Ejemplo de matriz de consumo y de costos] 
         div.d-none.d-sm-none.d-md-block
           figure
             img(src='@/assets/curso/temas/tema9/tema9-02-md.svg', alt='')  
@@ -62,7 +62,7 @@
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12(data-aos="fade-right")
                 .titulo-sexto.color-acento-contenido
-                  p.titulo.pb-0.mb-0 #[b Figura 7.] #[i Ejemplo de gráfica de consumo] 
+                  p.titulo.pb-0.mb-0 #[b Figura 21.] #[i Ejemplo de gráfica de consumo] 
                 div.d-none.d-sm-none.d-md-block
                   figure
                     img(src='@/assets/curso/temas/tema9/tema9-03-md.svg', alt='')  
@@ -81,7 +81,7 @@
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12(data-aos="fade-right")
                 .titulo-sexto.color-acento-contenido
-                  p.titulo.pb-0.mb-0 #[b Figura 8.] #[i Ejemplo del Diagrama de Pareto del consumo de energía] 
+                  p.titulo.pb-0.mb-0 #[b Figura 22.] #[i Ejemplo del Diagrama de Pareto del consumo de energía] 
                 div.d-none.d-sm-none.d-md-block
                   figure
                     img(src='@/assets/curso/temas/tema9/tema9-04-md.svg', alt='')  
