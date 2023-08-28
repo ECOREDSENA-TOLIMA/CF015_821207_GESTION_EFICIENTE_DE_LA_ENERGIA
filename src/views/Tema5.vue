@@ -215,15 +215,15 @@
     .row.justify-content-center.align-items-center.mt-5.mb-5
       .col-12.col-lg-10.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Esquema de actividades de auditoría energética] 
+          p.titulo.pb-0.mb-0 #[b Figura 8.] #[i Esquema de actividades de auditoría energética] 
         div.d-none.d-sm-none.d-md-block
           figure
-            img(src='@/assets/curso/temas/tema5/tema5-06-md.svg', alt='')  
-            figcaption Nota. Tomado de ICONTEC, NTC-ISO 50002 tabla c.2.  <br>https://drive.google.com/file/d/12nsZUjjBZW5bhaXdk-LnI4uL_uTO6c7_/view?usp=sharing
+            img(src='@/assets/curso/temas/tema5/tema5-06-md.svg', alt='En la figura 8, se muestra el esquema de actividades de auditoría energética.')  
+            figcaption Nota. Tomado de ICONTEC, NTC-ISO 50002 tabla c.2.
         div.d-block.d-md-none
           figure
-            img(src='@/assets/curso/temas/tema5/tema5-06-sm.svg', alt='')  
-            figcaption Nota. Tomado de ICONTEC, NTC-ISO 50002 tabla c.2.  <br>https://drive.google.com/file/d/12nsZUjjBZW5bhaXdk-LnI4uL_uTO6c7_/view?usp=sharing
+            img(src='@/assets/curso/temas/tema5/tema5-06-sm.svg', alt='En la figura 8, se muestra el esquema de actividades de auditoría energética.')  
+            figcaption Nota. Tomado de ICONTEC, NTC-ISO 50002 tabla c.2.
 
 
 

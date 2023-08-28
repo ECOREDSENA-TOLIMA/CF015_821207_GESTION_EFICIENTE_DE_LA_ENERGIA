@@ -15,11 +15,11 @@
           p.titulo.pb-0.mb-0 #[b Figura 1.] #[i Ejemplo diagrama de flujo de proceso] 
         div.d-none.d-sm-none.d-md-block
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-md.svg', alt='')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-md.svg', alt='En la figura 1, se muestra el ejemplo de un diagrama de flujo de proceso de la chatarra.')  
             figcaption Nota. Tomado de Implementación de un sistema gestión de energía pág. 53 s.f. <br>https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
         div.d-block.d-md-none
           figure
-            img(src='@/assets/curso/temas/tema1/tema1-01-sm.svg', alt='')  
+            img(src='@/assets/curso/temas/tema1/tema1-01-sm.svg', alt='En la figura 1, se muestra el ejemplo de un diagrama de flujo de proceso de la chatarra.')  
             figcaption Nota. Tomado de Implementación de un sistema gestión de energía pág. 53 s.f. <br>https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
 
     .row.mb-5(data-aos="fade-left")

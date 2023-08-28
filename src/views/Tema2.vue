@@ -15,7 +15,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 2.] #[i Diagrama de flujo extracción oro y/o plata] 
         div
           figure
-            img(src='@/assets/curso/temas/tema2/tema2-01.svg', alt='')  
+            img(src='@/assets/curso/temas/tema2/tema2-01.svg', alt='En la figura 2, se muestra el diagrama de flujo de extracción de oro y/o plata.')  
             figcaption Nota. Tomado de Procesos mineros (s.f.). <br>https://procesosmineros.weebly.com/plata.html
 
     .row.mb-5(data-aos="fade-left")
@@ -29,7 +29,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 3.] #[i Diagrama de flujo productos de acero para construcción] 
         div
           figure
-            img(src='@/assets/curso/temas/tema2/tema2-03.svg', alt='')  
+            img(src='@/assets/curso/temas/tema2/tema2-03.svg', alt='En la figura 3, se muestra el diagrama de flujo de productos de acero para construcción.')  
             figcaption Nota. Tomado de New Steel Construction (s.f.). <br>https://www.newsteelconstruction.com/wp/an-introduction-to-steelmaking/
 
     .row.mb-5(data-aos="fade-left")
@@ -43,7 +43,7 @@
           p.titulo.pb-0.mb-0 #[b Figura 4.] #[i Diagrama de flujo producción azúcar] 
         div
           figure
-            img(src='@/assets/curso/temas/tema2/tema2-05.svg', alt='')  
+            img(src='@/assets/curso/temas/tema2/tema2-05.svg', alt='En la figura 4, se muestra el diagrama de flujo de producción del azúcar.')  
             figcaption Nota. Tomado de ELSEVIER (s.f.). <br>https://www.elsevier.es/en-revista-ingenieria-investigacion-tecnologia-104-articulo-prevencion-minimizacion-control-contaminacion-ambiental-S1405774314706535#imagen-2
 
     .row.mb-5(data-aos="fade-left")

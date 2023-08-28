@@ -24,11 +24,11 @@
               p.titulo.pb-0.mb-0 #[b Figura 5.] #[i Diagrama de flujo del proceso de la producción de varillas lisas ] 
             div.d-none.d-sm-none.d-md-block
               figure
-                img(src='@/assets/curso/temas/tema3/tema3-02-md.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida')
+                img(src='@/assets/curso/temas/tema3/tema3-02-md.svg', alt='En la figura 5, se muestra el diagrama de flujo del proceso de la producción de varillas lisas.')
                 figcaption Nota. Tomado de https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf
             div.d-block.d-md-none
               figure
-                img(src='@/assets/curso/temas/tema3/tema3-02-sm.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida')
+                img(src='@/assets/curso/temas/tema3/tema3-02-sm.svg', alt='En la figura 5, se muestra el diagrama de flujo del proceso de la producción de varillas lisas.')
                 figcaption Nota. Tomado de https://www1.upme.gov.co/DemandaEnergetica/EEIColombia/Guia_estructura_ISO50001.pdf  
         .row
           .col-12.mb-4.mb-md-0
@@ -41,12 +41,12 @@
               p.titulo.pb-0.mb-0 #[b Figura 6.] #[i Balance de masas] 
             div.d-none.d-sm-none.d-md-block
               figure
-                img(src='@/assets/curso/temas/tema3/tema3-03-md.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso')
+                img(src='@/assets/curso/temas/tema3/tema3-03-md.svg', alt='En la figura 6, se muestra el balance de masas de un proceso.')
                 figcaption Nota: tomada de https://www.ingenieriaquimicareviews.com/2020/04/balance-de-masa-ingenieria-quimica.html
                 //- figcaption Nota. Tomado de Ingeniería química.
             div.d-block.d-md-none
               figure
-                img(src='@/assets/curso/temas/tema3/tema3-03-sm.svg', alt='El resultado de aplicar dichas técnicas permite determinar la energía consumida y/o producida en cada proceso del diagrama de flujo de proceso')
+                img(src='@/assets/curso/temas/tema3/tema3-03-sm.svg', alt='En la figura 6, se muestra el balance de masas de un proceso.')
                 figcaption Nota: tomada de https://www.ingenieriaquimicareviews.com/2020/04/balance-de-masa-ingenieria-quimica.html
                 //- Nota. Tomado de Ingeniería química.
         .row
@@ -57,11 +57,11 @@
               p.titulo.pb-0.mb-0 #[b Figura 7.] #[i Diagrama de Sankey] 
             div.d-none.d-sm-none.d-md-block
               figure
-                img(src='@/assets/curso/temas/tema3/tema3-04-md.svg', alt='Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey.')
+                img(src='@/assets/curso/temas/tema3/tema3-04-md.svg', alt='En la figura 7, se muestra el diagrama de Sankey para representar el flujo de energía en cada proceso.')
                 figcaption Nota. Tomado de https://www.researchgate.net/figure/Figura-38-Diagrama-de-Sankey-para-Oxicombustion_fig10_272496993
             div.d-block.d-md-none
               figure
-                img(src='@/assets/curso/temas/tema3/tema3-04-sm.svg', alt='Para mostrar el flujo de energía de cada proceso se usa generalmente el Diagrama Sankey.')
+                img(src='@/assets/curso/temas/tema3/tema3-04-sm.svg', alt='En la figura 7, se muestra el diagrama de Sankey para representar el flujo de energía en cada proceso.')
                 figcaption Nota. Tomado de Researchgate s.f.
 
 

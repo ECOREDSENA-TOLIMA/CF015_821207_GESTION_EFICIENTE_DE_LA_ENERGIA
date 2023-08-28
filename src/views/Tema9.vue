@@ -28,15 +28,15 @@
     .row.justify-content-center.align-items-center.mt-5.mb-4
       .col-12.col-lg-10.mb-5(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 #[b Figura 20.] #[i Ejemplo de matriz de consumo y de costos] 
+          p.titulo.pb-0.mb-0 #[b Figura 19.] #[i Ejemplo de matriz de consumo y de costos] 
         div.d-none.d-sm-none.d-md-block
           figure
-            img(src='@/assets/curso/temas/tema9/tema9-02-md.svg', alt='')  
-            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). https://drive.google.com/file/d/1u2CjluOkI8lP1RU3mtDuM3fx2ae5lmny/view?usp=sharing
+            img(src='@/assets/curso/temas/tema9/tema9-02-md.svg', alt='En la figura 19, se muestra un ejemplo de matriz de consumo y de costos.')  
+            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
         div.d-block.d-md-none
           figure
-            img(src='@/assets/curso/temas/tema9/tema9-02-sm.svg', alt='')  
-            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). https://drive.google.com/file/d/1u2CjluOkI8lP1RU3mtDuM3fx2ae5lmny/view?usp=sharing
+            img(src='@/assets/curso/temas/tema9/tema9-02-sm.svg', alt='En la figura 19, se muestra un ejemplo de matriz de consumo y de costos.')  
+            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
 
 
     .row.py-md-4.mb-5(data-aos="fade-right")
@@ -62,35 +62,35 @@
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12(data-aos="fade-right")
                 .titulo-sexto.color-acento-contenido
-                  p.titulo.pb-0.mb-0 #[b Figura 21.] #[i Ejemplo de gráfica de consumo] 
+                  p.titulo.pb-0.mb-0 #[b Figura 20.] #[i Ejemplo de gráfica de consumo] 
                 div.d-none.d-sm-none.d-md-block
                   figure
-                    img(src='@/assets/curso/temas/tema9/tema9-03-md.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética – RECIEE (s.f.). <br> https://drive.google.com/file/d/1eB_EkXgDmsykNAfYyQH5UH5Tde8a2cAf/view?usp=sharing
+                    img(src='@/assets/curso/temas/tema9/tema9-03-md.svg', alt='En la figura 20, se muestra un ejemplo de gráfica de consumo.')  
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética – RECIEE (s.f.).
                 div.d-block.d-md-none
                   figure
-                    img(src='@/assets/curso/temas/tema9/tema9-03-sm.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética – RECIEE (s.f.). <br>https://drive.google.com/file/d/1eB_EkXgDmsykNAfYyQH5UH5Tde8a2cAf/view?usp=sharing
+                    img(src='@/assets/curso/temas/tema9/tema9-03-sm.svg', alt='En la figura 20, se muestra un ejemplo de gráfica de consumo.')  
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética – RECIEE (s.f.).
 
           .col-md-11-col-lg-10.col-12.pt-3
             ul.lista-ul
               li.mb-0 
                 i.mb-0.lista-ul__vineta(style="color:#0F58B9")
                 span.text-bold Relación de variables que afectan el consumo de energía.
-            p(data-aos="fade-right") El objetivo principal de esta relación es identificar los usos significativos de la energía (USE) en los procesos de la organización, mediante la elaboración de Diagramas de Pareto con la información energética obtenida del histórico de consumos y de la recolección de datos en campo organizada por procesos como se muestra en las siguientes figuras:
+            p(data-aos="fade-right") El objetivo principal de esta relación es identificar los usos significativos de la energía (USE) en los procesos de la organización, mediante la elaboración de Diagramas de Pareto con la información energética obtenida del histórico de consumos y de la recolección de datos en campo organizada por procesos como se muestra en la figura y anexo:
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12(data-aos="fade-right")
                 .titulo-sexto.color-acento-contenido
-                  p.titulo.pb-0.mb-0 #[b Figura 22.] #[i Ejemplo del Diagrama de Pareto del consumo de energía] 
+                  p.titulo.pb-0.mb-0 #[b Figura 21.] #[i Ejemplo del Diagrama de Pareto del consumo de energía] 
                 div.d-none.d-sm-none.d-md-block
                   figure
-                    img(src='@/assets/curso/temas/tema9/tema9-04-md.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). <br>https://drive.google.com/file/d/1BsdUAo3HQqy5KYBolbxeDptLyjzpjMa1/view?usp=sharing
+                    img(src='@/assets/curso/temas/tema9/tema9-04-md.svg', alt='En la figura 21, se muestra un ejemplo del diagrama de pareto del consumo de energía.')  
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
 
                 div.d-block.d-md-none
                   figure
-                    img(src='@/assets/curso/temas/tema9/tema9-04-sm.svg', alt='')  
-                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). <br>https://drive.google.com/file/d/1BsdUAo3HQqy5KYBolbxeDptLyjzpjMa1/view?usp=sharing
+                    img(src='@/assets/curso/temas/tema9/tema9-04-sm.svg', alt='En la figura 21, se muestra un ejemplo del diagrama de pareto del consumo de energía.')  
+                    figcaption Nota. Tomado de la Red Colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
 
             .row.justify-content-center.align-items-center.mt-5.mb-4(data-aos="fade-down")
               .col-12
@@ -109,13 +109,7 @@
                           a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Formato_para_la_identificacion_de_los_USE.pdf')" target="_blank")
                             span Descargar
                             i.fas.fa-file-download
-                  //- .titulo-sexto.color-acento-contenido
-                  //- p.titulo.pb-0.mb-0 #[b Figura 9.] #[i Formato para la identificación de los USE] 
-                  //- figure
-                  //-   img(src='@/assets/curso/temas/tema9/tema9-05.svg', alt='')  
-                  //-   figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
-
-
+    
     .row.py-md-4(data-aos="fade-right")
       .col-12
         ul.lista-ul.mb-3
@@ -125,7 +119,6 @@
       .col-12
         p De acuerdo con la organización se deben definir los indicadores de desempeño energético a los que se les efectuará seguimiento después de implementadas las mejoras para comparar con la línea base energética determinada al comienzo de la auditoría. Los indicadores de desempeño pueden ser consumo de energía instantánea, o promedio, eficiencia energética por equipo y por proceso, etc. En todo caso los indicadores se prefieren cuantitativos y medibles, no estimados.
         p De acuerdo con la Norma ISO 50006 un listado de indicadores típicos con sus ventajas y desventajas se muestra en el siguiente anexo: 
-
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
       .col-12(data-aos="fade-right")
@@ -142,16 +135,6 @@
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Indicadores_de_eficiencia_energetica_tipicos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-        //- .titulo-sexto.color-acento-contenido
-        //-   p.titulo.pb-0.mb-0 #[b Figura 10.] #[i Indicadores de eficiencia energética típicos .] 
-        //- div
-        //-   figure
-        //-     img(src='@/assets/curso/temas/tema9/tema9-06.svg', alt='')  
-        //-     figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.). 
-
-
-
-
 </template>
 
 <script>
