@@ -218,11 +218,11 @@
         div.d-none.d-sm-none.d-md-block
           figure
             img(src='@/assets/curso/temas/tema5/tema5-06-md.svg', alt='En la figura 8, se muestra el esquema de actividades de auditoría energética.')  
-            figcaption Nota. Tomado de ICONTEC, NTC-ISO 50002 tabla c.2.
+            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
         div.d-block.d-md-none
           figure
             img(src='@/assets/curso/temas/tema5/tema5-06-sm.svg', alt='En la figura 8, se muestra el esquema de actividades de auditoría energética.')  
-            figcaption Nota. Tomado de ICONTEC, NTC-ISO 50002 tabla c.2.
+            figcaption Nota. Tomado de la Red colombiana de conocimiento en eficiencia energética - RECIEE (s.f.).
 
 
 

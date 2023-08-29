@@ -106,7 +106,7 @@
                           h3.mb-1 Para profundizar aún más a este respecto, diríjase al Anexo 2. 
                           p.text-small Formato para la identificación de los USE.
                         .col-sm-auto
-                          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Formato_para_la_identificacion_de_los_USE.pdf')" target="_blank")
+                          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")
                             span Descargar
                             i.fas.fa-file-download
     
@@ -132,7 +132,7 @@
                   h3.mb-1 Para profundizar aún más a éste respecto, diríjase al Anexo 3. 
                   p.text-small Indicadores de eficiencia energética típicos.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_Indicadores_de_eficiencia_energetica_tipicos.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 </template>
