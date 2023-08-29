@@ -8,8 +8,7 @@
       h1 Introducción a las auditorías energéticas
 
     p(data-aos="flip-down") La auditoría energética es la herramienta usada para conocer cómo, dónde, y cuándo se usa la energía en una organización y de esta manera identificar las oportunidades de reducción del uso y/o costo de la misma, sin afectar la calidad de los productos. Además, por ser parte integral del Sistema de Gestión Eficiente de Energía se han desarrollado estándares específicos para su normalización como, por ejemplo, la ISO 50002:2014 auditorías energéticas.
-    p(data-aos="flip-down") Un ejemplo de una lista de chequeo para la verificación de equipos durante una auditoría se muestra en la siguiente tabla:
-
+    
     //- .row.justify-content-center.align-items-center.mt-5.mb-5
     //-   .col-12.col-md-10(data-aos="fade-right")
     //-     .titulo-sexto.color-acento-contenido
@@ -200,7 +199,7 @@
                 .tarjeta.color--white
                   .text-black.p-4
                     .h4 Auditoría especial
-                    p Corresponde a auditorías detalladas pero con mayor profundidad en una la sección específica de la empresa. Normalmente se realizan para garantizar el aumento en la eficiencia energética después de efectuar acciones correctivas en los procesos.
+                    p Corresponde a auditorías detalladas, pero con mayor profundidad en una la sección específica de la empresa. Normalmente se realizan para garantizar el aumento en la eficiencia energética después de efectuar acciones correctivas en los procesos.
             .col-md-6.col-12.mb-5.mb-lg-0.mt-3(data-aos="flip-down")
               .tarjeta-avatar
                 img(src='@/assets/curso/temas/tema5/tema5-05.svg' alt='AvatarTop')
